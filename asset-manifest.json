@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TrollAndRock/ReactRepo.git/static/css/main.fd5bea99.css",
+    "main.js": "/TrollAndRock/ReactRepo.git/static/js/main.94c1280f.js",
+    "index.html": "/TrollAndRock/ReactRepo.git/index.html",
+    "main.fd5bea99.css.map": "/TrollAndRock/ReactRepo.git/static/css/main.fd5bea99.css.map",
+    "main.94c1280f.js.map": "/TrollAndRock/ReactRepo.git/static/js/main.94c1280f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd5bea99.css",
+    "static/js/main.94c1280f.js"
+  ]
+}
